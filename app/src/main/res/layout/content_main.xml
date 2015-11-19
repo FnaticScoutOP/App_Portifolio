@@ -20,7 +20,7 @@
         android:text="My NanoDegree Apps!"
         android:gravity="center"
         android:textSize="24sp"
-        android:layout_marginBottom="24dp"
+        android:layout_marginBottom="16dp"
         android:padding="16dp"/>
     <Button
         android:layout_width="200dp"
