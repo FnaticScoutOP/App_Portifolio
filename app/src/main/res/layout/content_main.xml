@@ -74,7 +74,6 @@
         android:layout_gravity="center"
         android:id="@+id/own_app"
         android:onClick="capstone"
-        android:textColor="#fff"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp" />
 </LinearLayout>
