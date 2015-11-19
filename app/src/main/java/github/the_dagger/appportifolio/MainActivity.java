@@ -34,24 +34,31 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
-    public void streamer(View view){
-         Toast.makeText(this, "Launching the Spotify Streamer App", Toast.LENGTH_SHORT).show();
+
+    public void streamer(View view) {
+        Toast.makeText(this, "Launching the Spotify Streamer App", Toast.LENGTH_SHORT).show();
     }
-    public void score(View view){
-        Toast.makeText(this,"Launching the Scores App",Toast.LENGTH_SHORT).show();
+
+    public void score(View view) {
+        Toast.makeText(this, "Launching the Scores App", Toast.LENGTH_SHORT).show();
     }
-    public void library(View view){
-        Toast.makeText(this,"Launching the Library App",Toast.LENGTH_SHORT).show();
+
+    public void library(View view) {
+        Toast.makeText(this, "Launching the Library App", Toast.LENGTH_SHORT).show();
     }
-    public void bigger(View view){
-        Toast.makeText(this,"Launching the Build It Bigger App",Toast.LENGTH_SHORT).show();
+
+    public void bigger(View view) {
+        Toast.makeText(this, "Launching the Build It Bigger App", Toast.LENGTH_SHORT).show();
     }
-    public void xyz(View view){
-        Toast.makeText(this,"Launching the XYZ Reader App",Toast.LENGTH_SHORT).show();
+
+    public void xyz(View view) {
+        Toast.makeText(this, "Launching the XYZ Reader App", Toast.LENGTH_SHORT).show();
     }
-    public void capstone(View view){
-        Toast.makeText(this,"Launching the Capstone App",Toast.LENGTH_SHORT).show();
+
+    public void capstone(View view) {
+        Toast.makeText(this, "Launching the Capstone App", Toast.LENGTH_SHORT).show();
     }
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
