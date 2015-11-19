@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
     public void streamer(View view){
-        Toast.makeText(this, "Launching the Spotify Streamer App", Toast.LENGTH_SHORT).show();
+         Toast.makeText(this, "Launching the Spotify Streamer App", Toast.LENGTH_SHORT).show();
     }
     public void score(View view){
         Toast.makeText(this,"Launching the Scores App",Toast.LENGTH_SHORT).show();
