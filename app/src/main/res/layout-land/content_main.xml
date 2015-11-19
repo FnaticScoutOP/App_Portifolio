@@ -29,7 +29,6 @@
         android:text="Spotify Streamer"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        app:layout_widthPercent="100%"
         android:onClick="streamer"
         android:id="@+id/spotify"
         android:layout_alignTop="@+id/scores"
