@@ -1,2 +1,2 @@
 # App_Portifolio
-Portifolio App for Android Nanodegree Program.
+Project Portifolio for the Android Developer Nanodegree Program provided by Udacity.
